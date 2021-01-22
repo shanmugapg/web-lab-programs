@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="pgm5.css" ?>
+
+<student_information>
+<h1>Student description</h1>
+    <student>
+        <usn>USN:1CE17CS112</usn>
+        <name>NAME:Shanmuga</name>
+        <college>COLLEGE:CEC</college>
+        <branch>BRANCH:CS</branch>
+        <year>YEAR:2021</year>
+        <email>EMAIL:shanmuga@gmail.com</email>
+        </student>
+
+        <student>
+            <usn>USN:1CE17CS117</usn>
+            <name>NAME:Shuga</name>
+            <college>COLLEGE:CEC</college>
+            <branch>BRANCH:CS</branch>
+            <year>YEAR:2021</year>
+            <email>EMAIL:shuga@gmail.com</email>
+            </student>
+            
+         <student>
+                <usn>USN:1CE17CS100</usn>
+                <name>NAME:Shan</name>
+                <college>COLLEGE:CEC</college>
+                <branch>BRANCH:CS</branch>
+                <year>YEAR:2021</year>
+                <email>EMAIL:shan@gmail.com</email>
+         </student>
+</student_information>

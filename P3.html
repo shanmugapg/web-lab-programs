@@ -1,0 +1,34 @@
+<html>
+    <head><title>PROGRAM 4</title></head>
+     <body>
+         <script>
+             function s(str){
+                 str=str.toLowerCase();
+                 for(let i=0;i<str.length;i++)
+                 if((str[i]=='a')||(str[i]=='e')||(str[i]=='i')||(str[i]=='o')||(str[i]=='u'))
+                 return i+1;
+                return 'not found'; 
+             }
+             function n(num){
+                 if(!(isNaN(num))){
+                 num=String(num.trim());
+                 num=num.split('');
+                 num=num.reverse();
+                 num=num.join('');
+                 return num;
+                }
+                else
+                return 'number not found';
+             }
+             let string=prompt("Enter the string :","");
+             let number=prompt("Enter the number to reverse:","");
+             let S1=s(string);
+             alert("the left most vowel in the sentences is"+S1);
+             let N=n(number);
+             alert("the reversed number is:"+N);
+         </script>
+     </body>
+
+
+
+ </html>

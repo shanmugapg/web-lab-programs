@@ -1,0 +1,31 @@
+student{
+    margin-top: 10px; color:red;
+}
+usn{
+    margin-left: 10px; font-size:14pt; color: blue;
+}
+name{
+    margin-left: 10px; font-size:14pt; color: rgb(153, 8, 129);
+}
+college{
+    margin-left: 10px; font-size:14pt; color: rgb(175, 9, 73);
+}
+branch{
+    margin-left: 10px; font-size:14pt; color: rgb(15, 187, 101);
+}
+year{
+    margin-left: 10px; font-size:14pt; color: rgb(199, 164, 48);
+}
+email{
+    margin-left: 10px; font-size:14pt; color: rgb(207, 95, 21);
+}
+student_information{
+    align-self: center; background-color: honeydew;
+}
+*
+{
+    font-size: 28px;
+    display: block;
+}
+
+
